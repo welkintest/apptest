@@ -1,1 +1,1 @@
-# apptest
+[![Build Status](https://dev.azure.com/ishans/apptesting/_apis/build/status/apptesting?branchName=master)](https://dev.azure.com/ishans/apptesting/_build/latest?definitionId=1&branchName=master)# apptest
